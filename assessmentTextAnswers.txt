@@ -1,0 +1,25 @@
+Read over the results, and write a paragraph that explains the pattern you see. How does each function “scale”? Which of the two functions scales better? How can you tell?
+
+****
+I've included two graphs of either function and the run time associated with either. While it seems that both  the tiny through xl functions perform similarily up until the large array. the extra large insert array is much higher
+resulting in a function that will neither scale or perform as well as the append. (for some reason the two graphs were labeled 'insert", the better performing is apend) I can tell the differences between performance based on the test
+timers ran for either function. 
+
+
+*attach graphs of either function run times..
+
+
+For extra credit, do some review / research on why the slower function is so slow, and summarize the reasoning for this.
+
+
+
+push runtime.js
+
+push functions.js
+
+
+Extra Credit
+List out the space complexity of each solution in Step 2
+
+
+
